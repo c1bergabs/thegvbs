@@ -1,1 +1,1 @@
-### Hi there !['Arch'](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
+### Hi there !['Arch'](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/distributor-logo-archlinux-icon.png)
