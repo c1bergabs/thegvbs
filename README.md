@@ -12,6 +12,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" width="30">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30">
+    <img src="https://img.icons8.com/color/452/c-programming.png" width="30">
     <h3 align="center">Unix familiarity</h3>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_plain_logo_icon_146565.png" width="30" alt="Debian">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/archlinux_logo_icon_167835.png" width="30" alt="Arch Linux">
