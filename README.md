@@ -12,9 +12,9 @@
     <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <h3 align="center">I'm learning</h3>
-        <img src="https://img.shields.io/badge/C-0057e7?&style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/ReactJS-0057e7?&style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-9e0000?style=for-the-badge&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/C-0057e7?&style=for-the-badge&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-0057e7?&style=for-the-badge&logo=cplusplus&logoColor=white">       
     <h3 align="center">Unix familiarity</h3>
     <img src="https://img.shields.io/badge/DEBIAN-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
