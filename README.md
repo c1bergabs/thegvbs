@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/ReactJS-0057e7?&style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/C-0057e7?&style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-0057e7?&style=for-the-badge&logo=cplusplus&logoColor=white">       
-    <h3 align="center">Unix familiarity</h3>
+    <h3 align="center">Linux familiarity</h3>
     <img src="https://img.shields.io/badge/DEBIAN-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
 
