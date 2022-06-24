@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Gabriel</h3>
 <h3 align="center">Currently I'm studying Systems Analysis and Development in CUFSA.</h3>
-<h3 align="center">Front/back-end developer. I love coding and playing guitar.</h3>
+<h3 align="center">Back-end developer. I love coding and playing guitar.</h3>
 <div align="center">
     <h3 align="center">My Skills</h3>
     <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
