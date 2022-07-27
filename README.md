@@ -10,10 +10,10 @@
     <img src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
     <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <h3 align="center">I'm learning</h3>
-        <img src="https://img.shields.io/badge/C-0057e7?&style=for-the-badge&logo=C&logoColor=white">
         <img src= "https://img.shields.io/badge/NODEJS-00B300?style=for-the-badge&logo=node.js&logoColor=white"></img>
-    <h3 align="center">Linux familiarity</h3>
-    <img src="https://img.shields.io/badge/DEBIAN-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+    <h3 align="center">Linux distros</h3>
+    <img src="https://img.shields.io/badge/DEBIAN_BASEDS-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzume&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzume&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
