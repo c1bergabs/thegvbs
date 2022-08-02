@@ -1,5 +1,4 @@
 <h3 align="center">Hi there, I'm Gabriel</h3>
-<h3 align="center">Currently I'm studying Systems Analysis and Development in CUFSA.</h3>
 <h3 align="center">Back-end developer. I love coding and playing guitar.</h3>
 <div align="center">
     <h3 align="center">My Skills</h3>
