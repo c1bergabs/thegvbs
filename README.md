@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Gabriel</h3>
-<h3 align="center">Back-end developer. I love coding and playing guitar.</h3>
+<h3 align="center">Data Analyst for Itau. I love coding and playing guitar.</h3>
 <div align="center">
     <h3 align="center">My Skills</h3>
     <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />
