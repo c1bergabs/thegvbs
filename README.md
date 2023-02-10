@@ -9,8 +9,7 @@
     <img src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
     <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <h3 align="center">I'm learning</h3>
-        <img src= "https://img.shields.io/badge/NODEJS-00B300?style=for-the-badge&logo=node.js&logoColor=white"></img>
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+        <img src= "https://img.shields.io/badge/AWS-edb253?style=for-the-badge&logo=amazon&logoColor=white"></img>
     <h3 align="center">Linux distros</h3>
     <img src="https://img.shields.io/badge/DEBIAN_BASEDS-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
