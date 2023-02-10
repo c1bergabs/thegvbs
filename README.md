@@ -11,7 +11,7 @@
     <h3 align="center">I'm learning</h3>
         <img src= "https://img.shields.io/badge/AWS-edb253?style=for-the-badge&logo=amazonaws&logoColor=white"></img>
     <h3 align="center">Linux distros</h3>
-    <img src="https://img.shields.io/badge/DEBIAN_BASEDS-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
+    <img src="https://img.shields.io/badge/DEBIAN-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzume&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzume&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
