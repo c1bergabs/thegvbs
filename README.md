@@ -10,6 +10,7 @@
     <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <h3 align="center">I'm learning</h3>
         <img src= "https://img.shields.io/badge/AWS-edb253?style=for-the-badge&logo=amazonaws&logoColor=white"></img>
+        <img src= "https://img.shields.io/badge/R-C0C0C0?style=for-the-badge&logo=r&logoColor=0A75AD"></img>
     <h3 align="center">Linux distros</h3>
     <img src="https://img.shields.io/badge/DEBIAN-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
