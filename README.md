@@ -14,5 +14,5 @@
     <img src="https://img.shields.io/badge/DEBIAN-bf0000?&style=for-the-badge&logo=Debian&logoColor=white">
     <img src="https://img.shields.io/badge/ARCH-0057e7?&style=for-the-badge&logo=ArchLinux&logoColor=white">
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabssccp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabssccp&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegvbs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegvbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
