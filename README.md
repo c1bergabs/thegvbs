@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/YFbootN.png" width="250" align="center">
 <h4 align="center">Hi there, I'm Gabriel 👋</h3>
 <h4 align="center">Data Analyst for Itau. I love science and coffee.</h3>
-    <h3 align="center" size="">My Skills</h3>
+    <h4 align="center" size="">My Skills</h3>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
     <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -10,7 +10,7 @@
     <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
     <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></img>
-    <h3 align="center">Linux distros</h3>
+    <h4 align="center">Linux distros</h3>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
     
