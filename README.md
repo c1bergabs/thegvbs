@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://i.imgur.com/YFbootN.png" width="250" align="center">
-<h4 align="center">Hi there, I'm Gabriel 👋</h3>
-<h4 align="center">Data Analyst for Itau. I love science and coffee.</h3>
+<p>Data Engineer for Itau. I love science and coffee.</p>
     <h4 align="center" size="">My Skills</h4>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
