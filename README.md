@@ -1,7 +1,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 <div align="center">
 <img src="https://i.imgur.com/c63MC2g.png" width="250" align="center">
-<p>Data Engineer for Itau. I love science and coffee.</p>
+
+<p style="font-size: 2rem;">Data Engineer @
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Ita%C3%BA_Unibanco_logo_2023.svg" width="30"></img>
+<br>I love science and coffee.</p>
     <h4 align="center" size="">My Skills</h4>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
